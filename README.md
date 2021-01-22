@@ -1,3 +1,6 @@
+### NotionLink
+[Notion Doc](https://www.notion.so/In-App-Purchase-493c02d3abbe47449bb13e2868f68354)
+
 ❗️현재 internal test로 돌리고 있는데 이틀정도 지나야 심사가 끝난다고 한다. 그때 아래 코드가 되는지 안되는지 확인 가능.
 
 ℹ️ product id 는 반드시 소문자여야한다.
